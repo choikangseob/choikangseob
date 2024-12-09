@@ -1,3 +1,5 @@
+안녕하세요! 신입개발자 최강섭 입니다
+
 <img src="http://img.shields.io/badge/JAVA-0854C1?style=flat-square&logo=html5&logoColor=black"/>
 <table>
   <tr>
