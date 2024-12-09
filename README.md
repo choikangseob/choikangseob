@@ -37,7 +37,7 @@
       <td>DB</td>
     <td>
        <img src="http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black"/>
-       <img src="http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black"/>
+       <img src="http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
     </td>
   </tr>
   
