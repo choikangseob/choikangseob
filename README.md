@@ -49,3 +49,6 @@
   </tr>
   
 </table>
+
+![choi kang seob GitHub stats](https://github-readme-stats.vercel.app/api?username=choikangseob&show_icons=true&theme=radical)
+
