@@ -4,8 +4,8 @@
 <table>
   <tr>
       <td>Language</td>
-      <td><img src="http://img.shields.io/badge/JAVA-0854C1?style=flat-square&logo=html5&logoColor=black"/>
-          <img src="http://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=html5&logoColor=black"/>
+      <td><img src="http://img.shields.io/badge/JAVA-0854C1?style=flat-square&logo=JAVA&logoColor=black"/>
+          <img src="http://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </td>
   </tr>
   
